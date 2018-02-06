@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: cz.dangar.Rrd2influxDB
+Bundle-Version: 1.0
+
+
