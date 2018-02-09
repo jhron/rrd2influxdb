@@ -19,7 +19,7 @@ In case that output file already exists, program will not continue (no files wil
  -o,--output <arg>        Output InfluxDB line protocol file
 ```
  
-Parameter ```mesaurement``` is optional and when it is not specified, measurment name is taken from input rrd4j file without rrd extenstion.
+Parameter ```measurement``` is optional and when it is not specified, measurement name is taken from input rrd4j file without rrd extenstion.
  
 ### Example
  
