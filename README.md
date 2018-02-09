@@ -1,6 +1,9 @@
 # rrd2influxdb
 Tool for converting Openhab rrd4j data file to [InfluxDB line protocol](https://docs.influxdata.com/influxdb/v1.4/write_protocols/line_protocol_reference/) file so it can be easily imported by using [InfluxDB HTTP API](https://docs.influxdata.com/influxdb/v1.4/guides/writing_data/).
 
+### Latest version
+[Download](https://github.com/jhron/rrd2influxdb/releases/)
+
 ### Usage
 
 ```java -jar rrd2influxdb.jar -i input_rrd_file -o output_influxdb_line_protocol_file```
