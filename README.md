@@ -5,7 +5,7 @@ Tool for converting Openhab rrd4j data file to [InfluxDB line protocol](https://
 
 ```java -jar rrd2influxdb.jar -i input_rrd_file -o output_influxdb_line_protocol_file```
 
-In case that output file already exists, program will not continue (no file will be overwriten).
+In case that output file already exists, program will not continue (no files will be overwriten).
 
 ### All supported parameters
 
